@@ -11,9 +11,9 @@
 #### alias "defaultzoom" "zoom.90"
 
 #### c_thirdpersonshoulderaimdist "720"
-#### c_thirdpersonshoulderheight "0" 	//Y Axis
-#### c_thirdpersonshoulderdist "45"		//Camera distance
-#### c_thirdpersonshoulderoffset "20"	//X Axis
+#### c_thirdpersonshoulderheight "0" 	//Edit Y Axis
+#### c_thirdpersonshoulderdist "45"		//Edit Camera distance
+#### c_thirdpersonshoulderoffset "20"	//Edit X Axis
 #### c_thirdpersonshouldersnapto "1"
 #### c_maxdistance "200"
 #### c_maxpitch "90"
@@ -21,7 +21,7 @@
 #### c_mindistance "30"
 #### c_minpitch "0"
 #### c_minyaw "-0"
-#### cam_collision "1"	//Set to 0 to ignore camera collisions
+#### cam_collision "1"	//Set to 0 to ignore camera collisions or set to 1 to get camera collisions
 
 #### togglezoom.off; c_thirdpersonshoulder 0;
 #### defaultzoom;

@@ -25,3 +25,8 @@
 
 #### togglezoom.off; c_thirdpersonshoulder 0;
 #### defaultzoom;
+
+
+## Fix-Version:
+#### Work in progress:
+#### changing the configuration to mach the RE6 more, and fix the aiming problem

@@ -1,7 +1,7 @@
 # Left-4-dead-2-ThirdPerson-RE6-View
 
 ## Installation:
-#### - For Left 4 Dead 2 locate the route using your file explorer: .\common\Left 4 Dead 2\left4dead2\cfg
+- For Left 4 Dead 2 locate the route using your file explorer: .\common\Left 4 Dead 2\left4dead2\cfg
 
 <img width="341" height="73" alt="image" src="https://github.com/user-attachments/assets/594579ad-bd55-4af7-af2a-b9f97f33578f" />
 

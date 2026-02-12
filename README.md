@@ -11,6 +11,9 @@
 
 
 - In game, press the key "v" to switch between first person and third person perspective.
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a131f368-cb85-4d5a-8881-0a52ecb9d70f" />
+
 - You can change the bind keys as you like by editing the code in the autoexec.cfg file.
 
 ## The code inside the file is:

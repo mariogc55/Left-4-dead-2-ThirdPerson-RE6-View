@@ -42,3 +42,8 @@
 #### changing the configuration to mach the RE6 more, and fix the aiming problem (still in progress for adjustments)
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/eb101a25-fdfa-4607-a3e0-fdcb1af4151b" />
+
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7a6a9109-d4d9-45cc-a7bc-be7c102248aa" />
+

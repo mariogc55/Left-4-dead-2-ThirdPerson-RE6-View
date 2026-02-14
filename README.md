@@ -69,7 +69,11 @@
 
 
 
-Last Version
+Last Version:
 
+from:
+c_thirdpersonshoulderaimdist "720"
+To:
+c_thirdpersonshoulderaimdist "400"
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/39826bed-cd39-4033-9005-6d544d33fc5f" />

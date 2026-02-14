@@ -70,10 +70,11 @@
 
 
 Last Version:
+#### change: more precision while shoting in medium range
+#### from:
+#### c_thirdpersonshoulderaimdist "720"
+#### To:
+#### c_thirdpersonshoulderaimdist "500"
 
-from:
-c_thirdpersonshoulderaimdist "720"
-To:
-c_thirdpersonshoulderaimdist "400"
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7195db5e-7306-4a12-bc6f-1b314d9f3e05" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/39826bed-cd39-4033-9005-6d544d33fc5f" />
